@@ -1,0 +1,4 @@
+select * from table_name 
+[where condition]
+# asc 升序，desc 降序
+order by field1 [asc | desc][,field2 asc|desc ]
